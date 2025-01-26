@@ -1,4 +1,6 @@
 # ✨ TheWeather
+![1000376830-modified](https://github.com/user-attachments/assets/e6612427-589b-4a72-8a49-362f7eee5e4a)
+
 ## Stay Ahead of the Weather with Our Advanced Weather App
 
 Discover the ultimate weather companion that keeps you informed, wherever you are. With real-time updates and detailed forecasts, our app ensures you're always prepared for any weather conditions.
